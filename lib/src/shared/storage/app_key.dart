@@ -1,0 +1,4 @@
+enum AppKey {
+  addressRecentList,
+  addressHistoryList,
+}
